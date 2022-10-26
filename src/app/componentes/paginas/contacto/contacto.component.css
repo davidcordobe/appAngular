@@ -1,0 +1,18 @@
+.from{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+input{
+    background-color: rgb(206, 205, 205);
+    border-radius: 6px 30px;
+    color: #000;
+}
+
+textarea{
+    background-color: rgb(206, 205, 205);;
+    border-radius: 6px 30px;
+    color: #000;
+}
